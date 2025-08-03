@@ -1,0 +1,14 @@
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\bin\Debug\net9.0\GradeCalc.exe
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\bin\Debug\net9.0\GradeCalc.deps.json
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\bin\Debug\net9.0\GradeCalc.runtimeconfig.json
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\bin\Debug\net9.0\GradeCalc.dll
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\bin\Debug\net9.0\GradeCalc.pdb
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\obj\Debug\net9.0\GradeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\obj\Debug\net9.0\GradeCalc.AssemblyInfoInputs.cache
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\obj\Debug\net9.0\GradeCalc.AssemblyInfo.cs
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\obj\Debug\net9.0\GradeCalc.csproj.CoreCompileInputs.cache
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\obj\Debug\net9.0\GradeCalc.dll
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\obj\Debug\net9.0\refint\GradeCalc.dll
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\obj\Debug\net9.0\GradeCalc.pdb
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\obj\Debug\net9.0\GradeCalc.genruntimeconfig.cache
+C:\Users\DE DON\Desktop\Assignment1-11021267\GradeCalc\obj\Debug\net9.0\ref\GradeCalc.dll
