@@ -1,0 +1,14 @@
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\bin\Debug\net9.0\TicketPricer.exe
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\bin\Debug\net9.0\TicketPricer.deps.json
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\bin\Debug\net9.0\TicketPricer.runtimeconfig.json
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\bin\Debug\net9.0\TicketPricer.dll
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\bin\Debug\net9.0\TicketPricer.pdb
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\obj\Debug\net9.0\TicketPricer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\obj\Debug\net9.0\TicketPricer.AssemblyInfoInputs.cache
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\obj\Debug\net9.0\TicketPricer.AssemblyInfo.cs
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\obj\Debug\net9.0\TicketPricer.csproj.CoreCompileInputs.cache
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\obj\Debug\net9.0\TicketPricer.dll
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\obj\Debug\net9.0\refint\TicketPricer.dll
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\obj\Debug\net9.0\TicketPricer.pdb
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\obj\Debug\net9.0\TicketPricer.genruntimeconfig.cache
+C:\Users\DE DON\Desktop\Assignment1-11021267\TicketPricer\obj\Debug\net9.0\ref\TicketPricer.dll
